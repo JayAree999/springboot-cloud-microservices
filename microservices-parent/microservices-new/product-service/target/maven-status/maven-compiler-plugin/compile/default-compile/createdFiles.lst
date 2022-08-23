@@ -1,0 +1,10 @@
+com\jayaree999\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\jayaree999\productservice\dto\ProductResponse.class
+com\jayaree999\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\jayaree999\productservice\dto\ProductRequest.class
+com\jayaree999\productservice\model\Product$ProductBuilder.class
+com\jayaree999\productservice\repo\ProductRepository.class
+com\jayaree999\productservice\service\ProductService.class
+com\jayaree999\productservice\model\Product.class
+com\jayaree999\productservice\controller\ProductController.class
+com\jayaree999\productservice\ProductServiceApplication.class
