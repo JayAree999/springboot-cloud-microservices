@@ -18,6 +18,7 @@ public class InventoryService {
 
     private final InventoryRepository inventoryRepository;
 
+    // 1000 sku codes and map to inventory response
     public List<InventoryResponse> isInStock(List<String> skuCode) {
         log.info("Checking Inventory");
         return inventoryRepository.findBySkuCodeIn(skuCode).stream()
