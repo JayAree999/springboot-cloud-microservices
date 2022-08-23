@@ -1,4 +1,4 @@
-package com.company.demo.discovery;
+package com.company.discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

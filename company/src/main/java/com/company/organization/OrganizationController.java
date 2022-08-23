@@ -1,4 +1,4 @@
-package com.company.demo.organization;
+package com.company.organization;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

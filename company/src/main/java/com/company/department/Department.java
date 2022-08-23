@@ -1,14 +1,12 @@
-package com.company.demo.employee;
+package com.company.department;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-import java.util.List;
-
 @Data
 @Document
-public class Employee {
+public class Department {
     @Id
     private String id;
     private String name;

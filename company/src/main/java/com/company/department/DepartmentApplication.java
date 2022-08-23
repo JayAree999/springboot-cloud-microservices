@@ -1,13 +1,13 @@
-package com.company.demo.organization;
+package com.company.department;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OrganizationApplication {
+public class DepartmentApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OrganizationApplication.class, args);
+		SpringApplication.run(DepartmentApplication.class, args);
 	}
 
 }

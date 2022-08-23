@@ -1,4 +1,4 @@
-package com.company.demo.employee;
+package com.company.employee;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

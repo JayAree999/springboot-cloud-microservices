@@ -1,7 +1,7 @@
-package com.company.demo.organization;
+package com.company.organization;
 
-import com.company.demo.department.Department;
-import com.company.demo.employee.Employee;
+import com.company.department.Department;
+import com.company.employee.Employee;
 import lombok.Data;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
