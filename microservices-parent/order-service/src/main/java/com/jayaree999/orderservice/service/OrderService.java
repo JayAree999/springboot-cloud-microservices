@@ -9,12 +9,14 @@ import com.jayaree999.orderservice.repository.OrderRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
+import javax.transaction.Transactional;
 import java.util.List;
 import java.util.UUID;
 
 
 @RequiredArgsConstructor
 @Service
+@Transactional
 public class OrderService {
 
 
